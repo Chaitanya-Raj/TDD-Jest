@@ -2,8 +2,8 @@ import {
   capitalize,
   reverseString,
   calculator,
-  analyze,
   cipher,
+  analyze,
 } from "./index";
 
 test("capitalize hello to match Hello", () => {
