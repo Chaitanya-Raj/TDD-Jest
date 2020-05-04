@@ -1,7 +1,7 @@
-function reverseString(x) {
+function reverse(x) {
   let arr = x.split("");
   arr.reverse();
   return arr.join("");
 }
 
-export default reverseString;
+export default reverse;
